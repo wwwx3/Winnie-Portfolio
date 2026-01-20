@@ -1,5 +1,3 @@
-## Winnie-Portfolio
----
 # Winnie (Chatnatda Ovatanupat) — Portfolio Website 
 
 Hi! I’m **Chatnatda Ovatanupat (Winnie)** — a Thai student builder working at the intersection of **AI, robotics, and real-world impact**.
